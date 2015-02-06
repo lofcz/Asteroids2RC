@@ -26,9 +26,9 @@
     <showViews>0</showViews>
     <deleteUnderlyingObj>0</deleteUnderlyingObj>
     <deleteUnderlyingTiles>-1</deleteUnderlyingTiles>
-    <page>4</page>
-    <xoffset>-27</xoffset>
-    <yoffset>-56</yoffset>
+    <page>0</page>
+    <xoffset>-199</xoffset>
+    <yoffset>-261</yoffset>
   </makerSettings>
   <backgrounds>
     <background visible="-1" foreground="0" name="bcgShop" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="-1"/>

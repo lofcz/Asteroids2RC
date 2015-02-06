@@ -67,6 +67,11 @@ if (chance = 2)
    {
     instance_create(x,y,oMedpack)
    }
+   
+repeat(irandom_range(1,3))
+{
+ instance_create(x-random(50)+random(50),y-random(50)+random(50),oExp)
+}
 </string>
           </argument>
         </arguments>
