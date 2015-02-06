@@ -307,6 +307,7 @@
       </sprites>
       <sprites name="Foes">
         <sprite>sprites\sEnemy1</sprite>
+        <sprite>sprites\sEnemy2</sprite>
         <sprite>sprites\sTurret1</sprite>
         <sprite>sprites\sBoss1</sprite>
       </sprites>
@@ -498,6 +499,7 @@
       </objects>
       <objects name="Ships">
         <object>objects\oEnemy1</object>
+        <object>objects\oEnemy2</object>
       </objects>
       <objects name="Bosses">
         <objects name="Boss1">
